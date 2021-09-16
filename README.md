@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminmagaga&label=Profile%20views&color=0e75b6&style=flat" alt="alaminmagaga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminmagaga" alt="alaminmagaga" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/alamin_magaga" target="blank"><img src="https://img.shields.io/twitter/follow/alamin_magaga?logo=twitter&style=for-the-badge" alt="alamin_magaga" /></a> </p>
-<h1 align="left">Notable Projects</h1>
-<p align="left"> <a href="https://github.com/alaminmagaga/text-summarization-web-app-with-flask-and-sumy-package" target="blank">Text summarization Web App with Flask And Sumy</a> </p>
+<h4 align="left">Top Projects</h4>
+
+<p align="left"> <a href="titanic-model1.herokuapp.com" target="blank">Text summarization Web App with Flask And Sumy</a> </p>
 - 🔭 I’m currently working on **face recognition system**
 
 - 🌱 I’m currently learning **React**
