@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alamin Musa Magaga</h1>
 <h3 align="center">Data Scientist|Full stack Web Developer|ML Researcher|Embedded Engineer|AngelHack Student Ambassador|Pythonista|founder of Magtech Digital Hub</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminmagaga&label=Profile%20views&color=0e75b6&style=flat" alt="alaminmagaga" /> </p>
 
 
 
@@ -11,14 +10,14 @@
 <p align="left"> <a href="https://github.com/alaminmagaga/text-summarization-web-app-with-flask-and-sumy-package" target="blank">Text summarization Web App with Flask And Sumy</a> </p>
 <p align="left"> <a href="titanic-model1.herokuapp.com" target="blank">Titanic Survival Prediction Web App</a> </p>
 
-<h4 align="center">Blogs</h4>
-<p align="center"> <a href="https://medium.com/analytics-vidhya/3-main-challenges-for-training-algorithm-in-medical-field-f2cf29d4eecc" target="blank">3 main challenges for training algorithm in medical field</a> </p>
-<p align="center"> <a href="https://medium.com/analytics-vidhya/identifying-cleaning-and-replacing-outliers-titanic-dataset-20182a062893" target="blank">Identifying, Cleaning and replacing outliers | Titanic Dataset</a> </p>
-<p align="center"> <a href="https://medium.com/analytics-vidhya/natural-language-processing-nlp-and-process-modeling-in-precision-medicine-a55fa9ec9818" target="blank">Natural Language Processing(NLP) And Process Modeling In Precision Medicine
+<h4 align="left">Blogs</h4>
+<p align="left"> <a href="https://medium.com/analytics-vidhya/3-main-challenges-for-training-algorithm-in-medical-field-f2cf29d4eecc" target="blank">3 main challenges for training algorithm in medical field</a> </p>
+<p align="left"> <a href="https://medium.com/analytics-vidhya/identifying-cleaning-and-replacing-outliers-titanic-dataset-20182a062893" target="blank">Identifying, Cleaning and replacing outliers | Titanic Dataset</a> </p>
+<p align="left"> <a href="https://medium.com/analytics-vidhya/natural-language-processing-nlp-and-process-modeling-in-precision-medicine-a55fa9ec9818" target="blank">Natural Language Processing(NLP) And Process Modeling In Precision Medicine
 </a> </p>
-<p align="center"> <a href="https://alaminmusamagaga.medium.com/text-summarization-app-with-flask-and-sumy-92212bd05705" target="blank">Text Summarization Web App with Flask and Sumy</a> </p>
-<p align="center"> <a href="https://alaminmusamagaga.medium.com/how-to-control-led-with-android-phone-d82a1e63fe09" target="blank">How To Control LED With Android phone</a> </p>
-<p align="center"> <a href="https://alaminmusamagaga.medium.com/simple-way-to-create-a-machine-learning-app-with-flask-69a532663fd5" target="blank">Simple Way To Create A Machine Learning Web App With Flask</a> </p>
+<p align="left"> <a href="https://alaminmusamagaga.medium.com/text-summarization-app-with-flask-and-sumy-92212bd05705" target="blank">Text Summarization Web App with Flask and Sumy</a> </p>
+<p align="left"> <a href="https://alaminmusamagaga.medium.com/how-to-control-led-with-android-phone-d82a1e63fe09" target="blank">How To Control LED With Android phone</a> </p>
+<p align="left"> <a href="https://alaminmusamagaga.medium.com/simple-way-to-create-a-machine-learning-app-with-flask-69a532663fd5" target="blank">Simple Way To Create A Machine Learning Web App With Flask</a> </p>
 - 🔭 I’m currently working on **face recognition system**
 
 - 🌱 I’m currently learning **React**
