@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alamin_magaga" target="blank"><img src="https://img.shields.io/twitter/follow/alamin_magaga?logo=twitter&style=for-the-badge" alt="alamin_magaga" /></a> </p>
 <h1 align="left">Notable Projects</h1>
-<p align="left"> <a href="https://github.com/alaminmagaga/text-summarization-web-app-with-flask-and-sumy-package" target="blank"></a>Text summarization Web App with Flask And Sumy </p>
+<p align="left"> <a href="https://github.com/alaminmagaga/text-summarization-web-app-with-flask-and-sumy-package" target="blank">Text summarization Web App with Flask And Sumy</a> </p>
 - 🔭 I’m currently working on **face recognition system**
 
 - 🌱 I’m currently learning **React**
