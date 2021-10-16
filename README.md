@@ -10,6 +10,9 @@
 <p align="left"> <a href="https://github.com/alaminmagaga/text-summarization-web-app-with-flask-and-sumy-package" target="blank">Text summarization Web App with Flask And Sumy</a> </p>
 <p align="left"> <a href="titanic-model1.herokuapp.com" target="blank">Titanic Survival Prediction Web App</a> </p>
 <p align="left"> <a href="https://github.com/alaminmagaga/Noun-and-Verb-Extraction-Web-App-with-flask-and-SpaCy" target="blank">Noun And Verb Extraction App</a> </p>
+<p align="left"> <a href="https://github.com/alaminmagaga/horse-vs-human-classfication-app
+" target="blank">horse vs human classfication app</a> </p>
+
 
 <h4 align="left">Blogs</h4>
 <p align="left"> <a href="https://medium.com/analytics-vidhya/3-main-challenges-for-training-algorithm-in-medical-field-f2cf29d4eecc" target="blank">3 main challenges for training algorithm in medical field</a> </p>
