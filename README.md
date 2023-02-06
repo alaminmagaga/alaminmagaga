@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alamin Musa Magaga</h1>
-<h3 align="center">Data Scientist|Full stack Web Developer|ML Researcher|Embedded Engineer|AngelHack Student Ambassador|Pythonista|founder of Magtech Digital Hub</h3>
+<h3 align="center">Data Scientist|Developer|Embedded System Engineer|Zindi Ambassador|CTO at Yandytech</h3>
 
 
 
