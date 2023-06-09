@@ -7,7 +7,8 @@
 <p align="left"> <a href="https://twitter.com/alamin_magaga" target="blank"><img src="https://img.shields.io/twitter/follow/alamin_magaga?logo=twitter&style=for-the-badge" alt="alamin_magaga" /></a> </p>
 <h4 align="left">Top Projects</h4>
 
-<p align="left"> <a href="https://github.com/alaminmagaga/maize-disease-detection-web-app" target="blank">Maize Disease Detection Web App</a> </p>
+<p align="left"> <a href="https://github.com/alaminmagaga/maize-disease-detection-web-app" target="blank">Maize Disease Detection Web App</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/webscrapper" target="blank">WebScraper App with Python and Djangop</a></p>
 
 
 
