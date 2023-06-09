@@ -9,6 +9,14 @@
 
 <p align="left"> <a href="https://github.com/alaminmagaga/maize-disease-detection-web-app" target="blank">Maize Disease Detection Web App</a></p>
 <p align="left"> <a href="https://github.com/alaminmagaga/webscrapper" target="blank">WebScraper App with Python and Djangop</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/contentgenerator" target="blank">Content Generator App</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/Text-summarizer-with-Spacy" target="blank">Text summarization Web App</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/Electracker-app" target="blank">Electracker APP</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/PocketDoc-App" target="blank">PocketDoc</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/fraud-detection-web-app-with-flask" target="blank">Fraud Detection Web App</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/Noun-and-Verb-Extraction-Web-App-with-flask-and-SpaCy" target="blank">Noun And Verb Extraction Web App</a></p>
+<p align="left"> <a href="https://github.com/alaminmagaga/heart-disease-prediction-django-web-app" target="blank">Heart Disease Prediction Web App</a></p>
+
 
 
 
