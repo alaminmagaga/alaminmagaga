@@ -7,11 +7,8 @@
 <p align="left"> <a href="https://twitter.com/alamin_magaga" target="blank"><img src="https://img.shields.io/twitter/follow/alamin_magaga?logo=twitter&style=for-the-badge" alt="alamin_magaga" /></a> </p>
 <h4 align="left">Top Projects</h4>
 
-<p align="left"> <a href="https://github.com/alaminmagaga/text-summarization-web-app-with-flask-and-sumy-package" target="blank">Text summarization Web App with Flask And Sumy</a> </p>
-<p align="left"> <a href="titanic-model1.herokuapp.com" target="blank">Titanic Survival Prediction Web App</a> </p>
-<p align="left"> <a href="https://github.com/alaminmagaga/Noun-and-Verb-Extraction-Web-App-with-flask-and-SpaCy" target="blank">Noun And Verb Extraction App</a> </p>
-<p align="left"> <a href="https://github.com/alaminmagaga/horse-vs-human-classfication-app
-" target="blank">horse vs human classfication app</a> </p>
+<p align="left"> <a href="https://github.com/alaminmagaga/maize-disease-detection-web-app" target="blank">Maize Disease Detection Web App</a> </p>
+
 
 
 <h4 align="left">Blogs</h4>
