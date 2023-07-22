@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alamin Musa Magaga</h1>
-<h3 align="center">Data Scientist|Developer|Embedded System Engineer|Zindi Ambassador|Omdena Kano Lead|CTO at Yandytech</h3>
+<h3 align="center">Data Scientist | Developer | Machine Learning Engineer | Zindi Ambassador | Omdena Kano Lead | PAYAIG Fellow | CTO at Yandytech </h3>
 
 
 
